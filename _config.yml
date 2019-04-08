@@ -11,7 +11,7 @@ email: thantzinoo.dev@gmail.com
 description: >
   Thoughts & Notes
 logo: "/assets/images/logo.jpg"
-baseurl: "https://md.thantzinoo.net" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://md.thantzinoo.net" # the base hostname & protocol for your site
 paginate:	7 # The number of posts to show per page on your homepage
 
